@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALLAN</h1>
 <h3 align="center">A passionate ruby on rails developer from Kenya</h3>
 
-- 📝 I regularly write articles on [https://allanicode.hashnode.dev/](https://allanicode.hashnode.dev/)
+- 📝 I plan to regulary write articles on [https://allanicode.hashnode.dev/](https://allanicode.hashnode.dev/)
 
 - 📫 How to reach me **allancodenet@gmail.com**
 
